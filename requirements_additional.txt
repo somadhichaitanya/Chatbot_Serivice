@@ -1,0 +1,4 @@
+# Optional advanced NLP & AI support (install only if you want these features)
+transformers>=4.40.0
+torch>=2.0.0
+openai>=0.27.0

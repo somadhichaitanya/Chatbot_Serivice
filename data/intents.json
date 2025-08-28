@@ -1,0 +1,129 @@
+{
+  "intents": [
+    {
+      "name": "greet",
+      "examples": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good evening",
+        "hiya",
+        "hey there",
+        "hello!"
+      ]
+    },
+    {
+      "name": "goodbye",
+      "examples": [
+        "bye",
+        "goodbye",
+        "see you",
+        "talk to you later",
+        "thanks, bye",
+        "catch you later"
+      ]
+    },
+    {
+      "name": "thanks",
+      "examples": [
+        "thanks",
+        "thank you",
+        "thanks a lot",
+        "appreciate it",
+        "cheers"
+      ]
+    },
+    {
+      "name": "track_order",
+      "examples": [
+        "where is my order",
+        "track my order 123-4567890-1234567",
+        "order status please",
+        "can you track order 111-2222222-3333333",
+        "what's the status of my delivery"
+      ]
+    },
+    {
+      "name": "cancel_order",
+      "examples": [
+        "cancel my order 123-4567890-1234567",
+        "i want to cancel my order",
+        "how do i cancel an order",
+        "can i cancel my order before it ships"
+      ]
+    },
+    {
+      "name": "refund_status",
+      "examples": [
+        "refund status for order 123-4567890-1234567",
+        "has my refund been processed",
+        "when will i get my refund",
+        "check refund for my order"
+      ]
+    },
+    {
+      "name": "return_policy",
+      "examples": [
+        "what is your return policy",
+        "how do i return a product",
+        "can i return after 30 days",
+        "returns and exchanges policy"
+      ]
+    },
+    {
+      "name": "shipping_info",
+      "examples": [
+        "how long does shipping take",
+        "shipping time to delhi",
+        "do you offer express shipping",
+        "what are your shipping options"
+      ]
+    },
+    {
+      "name": "payment_issue",
+      "examples": [
+        "payment failed during checkout",
+        "my card was charged twice",
+        "i have a problem with payment",
+        "refund for failed transaction"
+      ]
+    },
+    {
+      "name": "product_info",
+      "examples": [
+        "tell me about iPhone 14",
+        "product details for SKU 12345",
+        "do you have size guide for shoes",
+        "is this product in stock"
+      ]
+    },
+    {
+      "name": "exchange_request",
+      "examples": [
+        "i want to exchange my size",
+        "how to get a size exchange",
+        "exchange the item for a different size"
+      ]
+    },
+    {
+      "name": "complaint",
+      "examples": [
+        "i want to complain about my order",
+        "my package arrived damaged",
+        "i am not happy with the service",
+        "deliveries are always late"
+      ]
+    },
+    {
+      "name": "escalate",
+      "examples": [
+        "connect me to a human",
+        "i want to talk to a representative",
+        "raise a ticket",
+        "escalate this issue",
+        "speak to a human"
+      ]
+    }
+  ]
+}
